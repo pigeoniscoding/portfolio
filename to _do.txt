@@ -1,0 +1,49 @@
+page d'acceuil: (1 jour)
+
+changer la photo de profil 
+mettre le menu en francais 
+changer le footer de contact 
+changer le toggle (plus tard)
+ajouter les liens linkedin et github
+changer la couleur du bouton qui fait remonter 
+
+pages: 
+
+experience 
+formation
+projets (parler du portfolio)
+dessins ( à ajouter apres )
+enlever les autres pages 
+
+page experience : (1 jour)
+
+changer la phrase affiché 
+mettre le lien vers le bts sio + expliquer un peu ce que j'ai appris a faire 
+parler de mon experience CEA 
+
+projets : (4 jours)
+changer la phrase affiché
+changer la couleur du svg 
+ajouter a chaque fois une photo,un lien vers github, et une doc
+chercher comment faire installer des docs on click
+ajouter les projets du bts ainsi + portfolio (?)+ scrap projects
+faire une doc expliquant comment le portfolio à été fait
+ajouter les projets de com
+faire une page expliquant mes projets de com
+
+Education: (1 jour)
+
+changer la phrase affichée => done
+changer les couleurs svg => done
+enlever a partie certificats pour le moment => done
+
+en plus :
+
+regarder si il faut donner accées au code 
+regarder si il faut expliquer que c'est un code open source modifié ou le dire aprés
+regarder si il faut mettre mon relevet de note  
+
+(poster le portfolio apres les vacances )
+(postuler dans les postes qui ne m'interessent pas sans le portfolio en attendant)
+
+
