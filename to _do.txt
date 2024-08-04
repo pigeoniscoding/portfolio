@@ -17,9 +17,10 @@ enlever les autres pages
 
 page experience : (1 jour)
 
-changer la phrase affiché 
-mettre le lien vers le bts sio + expliquer un peu ce que j'ai appris a faire 
-parler de mon experience CEA 
+changer la phrase affiché => done
+mettre le lien vers le bts sio + cea
+expliquer un peu ce que j'ai appris a faire => done
+parler de mon experience CEA => done
 
 projets : (4 jours)
 changer la phrase affiché
