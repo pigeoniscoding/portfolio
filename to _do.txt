@@ -6,7 +6,7 @@ changer le footer de contact => done
 changer le toggle (plus tard)
 ajouter les liens linkedin et github => done
 changer la couleur du bouton qui fait remonter 
-changer le logo du haut 
+changer le logo du haut => done
 
 pages: 
 
