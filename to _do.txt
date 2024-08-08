@@ -5,7 +5,7 @@ mettre le menu en francais => done
 changer le footer de contact => done
 changer le toggle (plus tard)
 ajouter les liens linkedin et github => done
-changer la couleur du bouton qui fait remonter 
+changer la couleur du bouton qui fait remonter => done
 changer le logo du haut => done
 
 pages: 
@@ -43,7 +43,8 @@ en plus :
 
 regarder si il faut donner accées au code 
 regarder si il faut expliquer que c'est un code open source modifié ou le dire aprés
-regarder si il faut mettre mon relevet de note  
+regarder si il faut mettre mon relevet de note 
+ajouter mon cv 
 
 (poster le portfolio apres les vacances )
 (postuler dans les postes qui ne m'interessent pas sans le portfolio en attendant)

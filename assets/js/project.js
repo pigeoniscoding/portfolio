@@ -6,22 +6,22 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Quiz App",
-    cardImage: "assets/images/project-page/quiz.jpg",
-    description: "A quiz app built using basic react.",
+    title: "Calendrier de réservation de salle",
+    cardImage: "assets/images/project-page/project1.png",
+    description: "Une application web en HTML, CSS, JS, Node.Js et MYSQL",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/pigeoniscoding/application-de-reservation.git",
   },
   {
-    title: "Chess Engine",
-    cardImage: "assets/images/project-page/chess.jpg",
-    description: "A chess engine for a popular game dev engine.",
+    title: "Gestionnaire de reservation de salle",
+    cardImage: "assets/images/project-page/projet2.png",
+    description: "",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/pigeoniscoding/gestionnaire-de-reservation.git",
   },
-  {
+  /*{
     title: "Flappy Bird",
     cardImage: "assets/images/project-page/flappybird.png",
     description: "Flappy bird game built using React.js",
@@ -53,7 +53,7 @@ const projects = [
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
     Previewlink: "",
     Githublink: "",
-  },
+  },*/
   {
     title: "Tic Tac Toe Game",
     cardImage: "assets/images/project-page/tic-tac-toe.png",
@@ -61,9 +61,9 @@ const projects = [
       "Tested a React Tic Tac Toe Game using Jest and React Testing Library.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/pigeoniscoding/tic-tac-toe.git",
   },
-  {
+  /*{
     title: "Personal Book Library",
     cardImage: "assets/images/project-page/book.png",
     description: "Personal book library app built using JavaScript.",
@@ -108,7 +108,7 @@ const projects = [
       "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
     Previewlink: "",
     Githublink: "",
-  },
+  },*/
 ];
 
 // function for rendering project cards data
