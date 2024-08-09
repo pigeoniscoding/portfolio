@@ -10,7 +10,7 @@ const projects = [
     cardImage: "assets/images/project-page/project1.png",
     description: "Une application web en HTML, CSS, JS, Node.Js et MYSQL",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
+    Previewlink: "project1.html",
     Githublink: "https://github.com/pigeoniscoding/application-de-reservation.git",
   },
   {
@@ -18,7 +18,7 @@ const projects = [
     cardImage: "assets/images/project-page/projet2.png",
     description: "",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "",
+    Previewlink: "projet2.html",
     Githublink: "https://github.com/pigeoniscoding/gestionnaire-de-reservation.git",
   },
   /*{
@@ -55,7 +55,7 @@ const projects = [
     Githublink: "",
   },*/
   {
-    title: "Tic Tac Toe Game",
+    title: "Jeu de Morpion",
     cardImage: "assets/images/project-page/tic-tac-toe.png",
     description:
       "Tested a React Tic Tac Toe Game using Jest and React Testing Library.",
