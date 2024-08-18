@@ -6,7 +6,7 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Calendrier de réservation de salle",
+    title: "Calendrier de réservation",
     cardImage: "assets/images/project-page/project1.png",
     description: "Une application web en HTML, CSS, JS, Node.Js et MYSQL",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
@@ -14,7 +14,7 @@ const projects = [
     Githublink: "https://github.com/pigeoniscoding/application-de-reservation.git",
   },
   {
-    title: "Gestionnaire de reservation de salle",
+    title: "Gestionnaire de reservation",
     cardImage: "assets/images/project-page/projet2.png",
     description: "",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",

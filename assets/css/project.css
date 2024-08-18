@@ -220,7 +220,7 @@ a:hover {
 }
 
 .card .title-div {
-  width: 100%;
+  width: 120%;
   height: 35%;
   margin: 0;
 }
@@ -228,7 +228,7 @@ a:hover {
 .card .title {
   padding-bottom: 2rem;
   margin-top: 0em;
-  font-size: 0.65em;
+  font-size: 0.55em;
 }
 
 @media (min-width: 411px) {
