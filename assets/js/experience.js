@@ -9,14 +9,14 @@ const exp = [
     cardImage: "assets/images/cea.png",
     place: "Alternance de 2 ans au seins de l'Institut de Physique Théorique",
     time: "(Sept 2022 - Aou 2024)",
-    desp: "<li>Participation à l'écritutre d'un chaier des charges pour le projet du site web</li> <li>Participation à la conception et à la création de maquettes pour le nouveau site de l'entreprise sur WordPress</li> <li>Mise en place d'un serveur Apache sur Rocky Linux 9 pour héberger le site web.</li> <li>Recherche, installation et test de plugins WordPress</li> <li>Débogage d'une Application en PHP</li> <li>Participation à plusieurs projets de COM</li>",
+    desp: "<li>Participation à l'écritutre d'un cahier des charges pour le projet du site web.</li> <li>Participation à la conception et à la création de maquettes pour le nouveau site de l'entreprise sur WordPress.</li> <li>Mise en place d'un serveur Apache sur Rocky Linux 9 pour héberger le site web.</li> <li>Recherche, installation et test de plugins WordPress.</li> <li>Débogage d'une Application en PHP.</li> <li>Participation à plusieurs projets de COM.</li>",
   },
   {
-    title: "Etudiante de développement",
+    title: "Étudiante de développement",
     cardImage: "assets/images/iscio.png",
     place: "services informatiques aux organisations au BTS ISCIO",
     time: "(Sept 2022 - Aou, 2024)",
-    desp: "<li>Développement d'une application web de réservation de salles en HTML, CSS, JS et SQL</li><li>Développement d'une application bureautique de gestion de reservations (pour les Admins) en C#</li><li>Développement d'une API REST en Node.js</li><li>Vérification de la conformité d'un site web à la RGPD</li><li>Mise en place d'une veille informationnelle</li>",
+    desp: "<li>Développement d'une application web de réservation de salles en HTML, CSS, JS et SQL.</li><li>Développement d'une application bureautique de gestion de réservations (pour les Admins) en C#.</li><li>Développement d'une API REST en Node.js.</li><li>Vérification de la conformité d'un site web à la RGPD.</li><li>Mise en place d'une veille informationnelle.</li>",
   },
   /*{
     title: "Research Intern",

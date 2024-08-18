@@ -14,7 +14,7 @@ const projects = [
     Githublink: "https://github.com/pigeoniscoding/application-de-reservation.git",
   },
   {
-    title: "Gestionnaire de reservation",
+    title: "Gestionnaire de réservation",
     cardImage: "assets/images/project-page/projet2.png",
     description: "",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
