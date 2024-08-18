@@ -167,8 +167,8 @@ a:hover {
 
 .card .menu-content {
   list-style-type: none;
-  position: absolute;
-  right: 0;
+  margin-left: auto;
+
 }
 
 .card .menu-content::before,
@@ -216,15 +216,20 @@ a:hover {
 .card .data .content {
   padding: 1em;
   position: relative;
+  height: 100%;
+  
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
   z-index: 1;
 }
 
 .card .title-div {
-  width: 120%;
-  height: 35%;
   margin: 0;
 }
-
+.title a{
+  color: #fff;
+}
 .card .title {
   padding-bottom: 2rem;
   margin-top: 0em;
@@ -273,10 +278,7 @@ a:hover {
     font-size: 0.7;
   }
 }
-
-@media (min-width: 365px) {
-  .card .text {
-    font-size: 0.85em;
+   /* padding-bottom: 7rem;
   }
 }
 
@@ -409,7 +411,7 @@ ul {
     margin-right: 20px;
   }
   .card .title-div {
-    padding-bottom: 7rem;
+    /* padding-bottom: 7rem; */
     margin-bottom: 0px;
     font-size: 3rem;
   }
@@ -421,7 +423,7 @@ ul {
     margin-right: 20px;
   }
   .card .title-div {
-    padding-bottom: 7rem;
+    /* padding-bottom: 7rem; */
     font-size: 3rem;
   }
 }
@@ -432,7 +434,7 @@ ul {
     margin-right: 20px;
   }
   .card .title-div {
-    padding-bottom: 8rem;
+    /* padding-bottom: 8rem; */
     margin-bottom: 0px;
     font-size: 2rem;
   }
@@ -444,7 +446,7 @@ ul {
     margin-right: 20px;
   }
   .card .title-div {
-    padding-bottom: 6rem;
+    /* padding-bottom: 6rem; */
     margin-bottom: 0px;
     font-size: 2rem;
   }
@@ -456,7 +458,7 @@ ul {
     margin-right: 20px;
   }
   .card .title-div {
-    padding-bottom: 6rem;
+    /* padding-bottom: 6rem; */
     margin-bottom: 0px;
     font-size: 2rem;
   }
@@ -468,7 +470,7 @@ ul {
     margin-right: 20px;
   }
   .card .title-div {
-    padding-bottom: 6rem;
+    /* padding-bottom: 6rem; */
     font-size: 2rem;
   }
 }
@@ -478,7 +480,7 @@ ul {
     margin-right: 20px;
   }
   .card .title-div {
-    padding-bottom: 6rem;
+    /* padding-bottom: 6rem; */
     margin-bottom: 0px;
     font-size: 2rem;
   }
@@ -490,7 +492,7 @@ ul {
     margin-right: 20px;
   }
   .card .title-div {
-    padding-bottom: 6rem;
+    /* padding-bottom: 6rem; */
     margin-bottom: 0px;
     font-size: 2rem;
   }
