@@ -21,15 +21,15 @@ const projects = [
     Previewlink: "https://pigeoniscoding.github.io/portfolio/projet2.html",
     Githublink: "https://github.com/pigeoniscoding/gestionnaire-de-reservation.git",
   },
-  /*{
-    title: "Flappy Bird",
-    cardImage: "assets/images/project-page/flappybird.png",
-    description: "Flappy bird game built using React.js",
+  {
+    title: "Tamagochi",
+    cardImage: "assets/images/project-page/tamagochi.png",
+    description: "Tamagochi game built using Vue.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/pigeoniscoding/tamagovew.git",
   },
-  {
+  /*{
     title: "Exercise Tracker",
     cardImage: "assets/images/project-page/exercise.jpg",
     description: "Exercise tracker built using basic redux.",
